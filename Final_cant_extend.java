@@ -11,8 +11,7 @@ class Honda1 extends Bike1{
         }
 }
 class cantExtend{
-    public static void main (String args[])
-{
+    public static void main (String args[]){
     Honda1 obj = new Honda1();
     obj.run();
 }
