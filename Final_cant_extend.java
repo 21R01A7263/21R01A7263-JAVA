@@ -9,4 +9,12 @@ class Honda1 extends Bike1{
         {
             System.out.println("derived class");
         }
-    }
+}
+class cantExtend{
+    public static void main (String args[])
+{
+    Honda1 obj = new Honda1();
+    obj.run();
+}
+}
+
