@@ -10,8 +10,4 @@ public class SimpleMessage extends Applet{
 		g.drawString("HI APPLET Program",80,150);
 }
 }
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
-    private void initComponents() {
 
-        setLayout(new java.awt.BorderLayout());
-    }
