@@ -58,13 +58,3 @@ public class Traffic extends Applet implements ItemListener
                         g.drawString(msg,210,260);
                         break;
                 }    }}
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
-    private void initComponents() {
-
-        setLayout(new java.awt.BorderLayout());
-    }// </editor-fold>//GEN-END:initComponents
-
-
-    // Variables declaration - do not modify//GEN-BEGIN:variables
-    // End of variables declaration//GEN-END:variables
-}
